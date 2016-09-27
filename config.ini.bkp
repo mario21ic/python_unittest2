@@ -1,0 +1,6 @@
+[app]
+web.url = http://miweb.com
+sauce.user = usuario
+sauce.key = saucekesysa1233
+web.user = usuario@email.com
+web.passwd = claveusuario
