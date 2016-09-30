@@ -1,6 +1,6 @@
 import unittest
 
- 
+
 class ArithTest(unittest.TestCase):
 
     def runTest(self):
